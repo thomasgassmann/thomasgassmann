@@ -1,6 +1,6 @@
 ### Hi there, I'm [Thomas Gassmann](https://thomasgassmann.com/) 👋
 
-I am a Software Engineer and Computer Science student from Lucerne, Switzerland.
+I am a Software Engineer and Computer Science student from Switzerland.
 
 ### Find me online
 
